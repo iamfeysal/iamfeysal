@@ -2,6 +2,7 @@
 
 ## Devops, Data and Blockchain
 
+![iamfeysal's github stats](https://github-readme-stats.vercel.app/api?username=iamfeysal&count_private=true)
 
 <div align='center'>
 
