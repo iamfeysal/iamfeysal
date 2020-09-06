@@ -1,8 +1,11 @@
+  <div align='center'>
   # Salaam 👋
 
-## Devops, Data and Blockchain
+  ## Devops, Data and Blockchain
+  
+  </div>
 
-![iamfeysal's github stats](https://github-readme-stats.vercel.app/api?username=iamfeysal&count_private=true)
+<p align="center"><samp> <img src=https://komarev.com/ghpvc/?username=iamfeysal alt=iamfeysal/></samp> </p>
 
 <div align='center'>
 
